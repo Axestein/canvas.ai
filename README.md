@@ -96,3 +96,10 @@ We welcome contributions! Here’s how you can help improve CanvasAI:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, please reach out:
+
+- **Email**: adityandmb@gmail.com
+- **GitHub**: [Axestein](https://github.com/Axestein)
