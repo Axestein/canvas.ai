@@ -15,6 +15,7 @@ With CanvasAI, users can input complex equations, and the AI will guide them thr
 ## Sample Inputs
 
 Here are some examples of equations that CanvasAI can solve:
+
 ![Group 1437253683 (1)](https://github.com/user-attachments/assets/ada4c31d-824d-491b-93c4-bbbc9ad4c2ab)
 
 ## Tech Stack
