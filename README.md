@@ -29,7 +29,7 @@ Here are some examples of equations that CanvasAI can solve:
   - **Python**: The language powering the AI algorithms and backend services.
   
 - **Deployment & Infrastructure**:  
-  - **Google Cloud**: Cloud infrastructure for deployment and scalability.
+  - **Vercel**: For deployment and scalability.
   - **Git**: Version control to manage the project’s codebase.
 
 ## Installation
