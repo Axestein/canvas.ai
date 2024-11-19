@@ -31,6 +31,7 @@ Here are some examples of equations that CanvasAI can solve:
 - **Deployment & Infrastructure**:  
   - **Vercel**: For deployment and scalability.
   - **Git**: Version control to manage the project’s codebase.
+  - **Google Cloud AI & Google AI Studio**: For Generative AI Api.
 
 ## Installation
 
