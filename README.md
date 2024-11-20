@@ -78,6 +78,7 @@ Make sure you have the following installed:
 ### Running the App
 
 Once both the frontend and backend servers are running, navigate to `http://localhost:5173` in your browser to interact with the CanvasAI tool.
+Navigate to `http://localhost:8900` to check your backend connectivity.
 
 ## Usage
 
