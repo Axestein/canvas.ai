@@ -4,6 +4,9 @@ CanvasAI is a generative AI tool embedded within an interactive canvas interface
 
 With CanvasAI, users can input complex equations, and the AI will guide them through solving the problem step-by-step, offering an intuitive and efficient experience for learners and professionals alike.
 
+## HOW IT'S WORKING
+![image](https://github.com/user-attachments/assets/96b7ded8-f9e9-4890-80fc-29a2d60407fd)
+
 ## Features
 
 - **Real-Time Equation Solving**: Solves equations as you input them and provides step-by-step explanations.
